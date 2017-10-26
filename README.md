@@ -10,8 +10,8 @@ id---Date/time---InternalTemp---ExternalTemp
 #Created basic documentation
 
 Next Goal: Version 0.2
-# solder two temps sensors to self build Pi 1 hat
-# Update python program for two temp readings
+#solder two temps sensors to self build Pi 1 hat
+#Update python program for two temp readings
 #Update documentation
 
 Goal: Version 0.3
