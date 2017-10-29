@@ -9,18 +9,18 @@ id---Date/time---InternalTemp---ExternalTemp
 #Currently Pi and sensor are plugged into a bread board
 #Created basic documentation
 
-Next Goal: Version 0.2
+Goal: Version 0.2 Completed October 29th 2017
+#Create a System Service for Pi Application to run under
+#Update Documentation
+
+Next Goal: Version 0.3
 #solder two temps sensors to self build Pi 1 hat
 #Update python program for two temp readings
 #Update documentation
 
-Goal: Version 0.3
+Goal: Version 0.4
 #Create second pi temp hat for Monitoring Second Aquarium
 #Create web graph based on temp data from first Aquarium
-#Update Documentation
-
-Goal: Version 0.4 
-#Create a System Service for Pi Application to run under
 #Update Documentation
 
 Goal: Version 0.5
