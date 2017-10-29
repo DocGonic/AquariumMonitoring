@@ -1,0 +1,13 @@
+[Unit]
+Description=Temp Reading from Aquarium System Unit Service
+After=network.target
+
+[Service]
+Restart=on-failure
+RestartSec=20 5
+WorkingDirectory=/home/pi/
+ExecStart=/usr/bin/python /home/pi/temp.py
+
+[Install]
+WantedBy=multi-user.target
+
