@@ -14,19 +14,20 @@ Goal: Version 0.2 Completed October 29th 2017
 #Update Documentation
 
 Next Goal: Version 0.3
+#Create a dynamic web Interface that loads all graphs based on the DB schema
+#Update documentation
+
+Goal: Version 0.4
+#Create an Installer file for raspbian
+#Update documentation
+
+Goal: Version 0.5
 #solder two temps sensors to self build Pi 1 hat
 #Update python program for two temp readings
 #Update documentation
 
-Goal: Version 0.4
+Goal: Version 0.6
 #Create second pi temp hat for Monitoring Second Aquarium
 #Create web graph based on temp data from first Aquarium
 #Update Documentation
 
-Goal: Version 0.5
-#Create a dynamic web Interface that loads all graphs based on the DB schema
-#Update documentation
-
-Goal: Version 0.6
-#Create an Installer file for raspbian
-#Update documentation
